@@ -23,5 +23,23 @@
 			<a href="https://google.com" target="_blank">Go to Google.com</a>
 		</div>
 		<img src="images/stormtrooper.jpg" alt="Stormtrooper" />
+		<table>
+			<tr>
+				<th>
+					table cell 1
+				</th>
+				<th>
+					table cell 2
+				</th>
+			</tr>
+			<tr>
+				<td>
+					table cell 3
+				</td>
+				<td>
+					table cell 4
+				</td>
+			</tr>
+		</table>
 	</body>
 </html>
