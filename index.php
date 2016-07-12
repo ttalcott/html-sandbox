@@ -49,8 +49,6 @@
 					<th>
 						Table cell 1
 					</th>
-				</tr>
-				<tr>
 					<th>
 						Table cell 2
 					</th>
@@ -59,8 +57,6 @@
 					<td>
 						Table cell 3
 					</td>
-				</tr>
-				<tr>
 					<td>
 						Table cell 4
 					</td>
@@ -69,8 +65,6 @@
 					<td>
 						Table cell 5
 					</td>
-				</tr>
-				<tr>
 					<td>
 						Table cell 6
 					</td>
@@ -79,8 +73,6 @@
 					<td>
 						Table cell 7
 					</td>
-				</tr>
-				<tr>
 					<td>
 						Table cell 8
 					</td>
