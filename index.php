@@ -22,5 +22,6 @@
 		<div>
 			<a href="https://google.com" target="_blank">Go to Google.com</a>
 		</div>
+		<img src="images/stormtrooper.jpg" alt="Stormtrooper" />
 	</body>
 </html>
