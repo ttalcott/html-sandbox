@@ -3,6 +3,11 @@
 	<head>
 		<meta charset="utf-8" />
 		<!--meta tag is self closing-->
+		<!--Adding custom CSS-->
+		<link href="css/style1.css" rel="stylesheet" type="text/css" />
+		<!--must have all attributes-->
+		<!--adding custom JavaScript-->
+		<script src="js/custom.js" type="text/javascript"></script>
 		<title>My First Practice Web Page</title>
 	</head>
 	<body>
